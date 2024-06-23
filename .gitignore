@@ -1,0 +1,10 @@
+*
+
+!*/
+!data/
+!**/*.py
+!**/*.json
+!.gitignore
+!README.md
+
+Dual_CAN_model/cache/label2idx.json
